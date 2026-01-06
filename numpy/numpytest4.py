@@ -15,9 +15,6 @@ print(arr2.size)    # 6
 #nbytes: 전체 배열의 바이트 수 (size * itemsize)
 #strides: 메모리에서 다음 요소까지 건너뛸 바이트 수(차원별)
 
-
-
-
 # zeros, ones, arange, linspace
 zeros = np.zeros((3, 3))
 ones = np.ones((2, 4))
